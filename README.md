@@ -4,7 +4,7 @@ This is my Final HTML CSS JS REACT NODE project for Udemy course
 
 
 ## FrontEnd SmartBrain - v1
-Front end: https://github.com/aneagoie/face-recognition-brain
+Front end: https://github.com/faxathome/smartbrain
 
 1. Clone this repo
 2. Run `npm install`
@@ -15,7 +15,7 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ## BackEnd SmartBrain-api - v1
 
-Back end: https://github.com/aneagoie/face-recognition-brain-api
+Back end: https://github.com/faxathome/smartbrain-api
 
 1. Clone this repo
 2. Run `npm install`
