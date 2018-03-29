@@ -1,6 +1,7 @@
 
 ### Hello There
-This is my Final HTML CSS JS REACT NODE project for Udemy course
+This is my Final HTML CSS JS REACT NODE project for "The Complete Web Developer in 2018" Udemy course.
+Deployed in heroku in 
 
 
 ## FrontEnd SmartBrain - v1
